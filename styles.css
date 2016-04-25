@@ -1,0 +1,13 @@
+body{
+    Font-family: Helvetica;
+    padding-left: 70px;
+    padding-top: 30px;
+    color: #222;
+    display: inline-block;
+}
+code{
+    background-color: #F5F5F5;
+    color: #F33;
+    width: auto;
+    padding: 1px;
+}
